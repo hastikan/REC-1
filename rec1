@@ -1,0 +1,17 @@
+print(6%2)
+print(6**2)
+print((2**2)+(9/3))
+x=15
+print(x-10)
+
+x='Hello'
+print(type(x))
+
+points_obtained=30
+total_points=100
+percentage=(points_obtained/total_points)*100
+
+print(percentage)
+
+x= 'I am a UB student'
+print(x[5])
